@@ -10,7 +10,7 @@ async function createMarkup(path, data){
 
     }catch(error){
 
-    console.log(error)
+    console.log(error) 
 
     }
 
